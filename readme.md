@@ -1,0 +1,1 @@
+Hello. This is my first time using git and sharing my work on here. The idea hind doing this is to get comfromtable doing the basics and learing. So, my first step is doing the google homepage remake and the search results. I'm going ot be using html, and css to achieve this.
